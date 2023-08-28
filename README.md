@@ -19,7 +19,7 @@
 ---
 
 ### :man_technologist: About Me :
-:telescope: I’m working as a Software Engineer and contributing to frontend and backend for building big distributed application.
+:telescope: Hi I'm Sakthi Nathan, a dedicated software engineer with a flair for crafting efficient, elegant, and robust solutions in the digital realm. With a 1+ year of journey in the ever-evolving tech landscape, I've honed my skills to transform complex challenges into streamlined, user-friendly experiences.
 
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sakthi-nathan/)
 
