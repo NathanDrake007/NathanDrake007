@@ -1,25 +1,12 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100"/>
-    <div id="badges">
-	    <a href="your-linkedin-URL">
-	        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-        </a>
-    </div>
-    <img src="https://komarev.com/ghpvc/?username=NathanDrake007&style=flat-square&color=blue" alt=""/>
     <h1>
-        hey there
+        Hi Geek
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
-
 ### :man_technologist: About Me :
-:telescope: Hi I'm Sakthi Nathan, a dedicated software engineer with a flair for crafting efficient, elegant, and robust solutions in the digital realm. With a 1+ year of journey in the ever-evolving tech landscape, I've honed my skills to transform complex challenges into streamlined, user-friendly experiences.
+:telescope: Hi I'm Sakthi Nathan, a dedicated software engineer with a flair for crafting efficient, elegant, and robust solutions in the digital realm. With a 2+ year of journey in the ever-evolving tech landscape, I've honed my skills to transform complex challenges into streamlined, user-friendly experiences.
 
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sakthi-nathan/)
 
@@ -43,6 +30,14 @@
 ---
 
 ### :fire: My Stats :
-![Nathan Drake's github stats](https://github-readme-stats.vercel.app/api?username=NathanDrake007&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDrake007&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<img src="https://github-readme-stats-hqxszzea3-trinib.vercel.app/api?username=NathanDrake007&show_icons=true&theme=radical&border_color=ffffff">
+
+<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
+<img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=NathanDrake007&theme=radical&border=ffffff">
+
+<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<img src="https://github-readme-stats-trinib.vercel.app/api/top-langs/?username=NathanDrake007&theme=radical&layout=compact&border_color=ffffff&langs_count=6">
